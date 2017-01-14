@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Go Encoding Tools
 
-Miscelaneous encoding tools for Go.
+Miscellaneous encoding tools for Go.
 
 ## record
 
